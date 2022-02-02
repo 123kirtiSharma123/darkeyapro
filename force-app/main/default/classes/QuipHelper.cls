@@ -1,5 +1,5 @@
 public class QuipHelper{
-   
+   //test
      private static final Blob KEY_BLOB = Blob.valueOf('klient_quip_doc_setting_00000007');
      private static final Blob IV_BLOB = Blob.valueOf('klient_quip__doc');
      private static final String AES_256 = 'AES256';
