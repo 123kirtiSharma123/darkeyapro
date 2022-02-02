@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0055j000000a8uaAAA",
+    "createdByName": "Abhishek Kumar",
+    "createdDate": "2021-11-03T10:30:01.000Z",
+    "fileName": "classes/QuipHelper.cls",
+    "fullName": "QuipHelper",
+    "id": "01p5j000003GoLjAAK",
+    "lastModifiedById": "0055j000000a8uaAAA",
+    "lastModifiedByName": "Abhishek Kumar",
+    "lastModifiedDate": "2021-11-29T10:26:39.000Z",
+    "manageableState": "unmanaged",
+    "type": "ApexClass"
+  }
+}
